@@ -20,7 +20,7 @@ shape = SubResource( 1 )
 [node name="ParedInferior" type="StaticBody2D" parent="."]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="ParedInferior"]
-position = Vector2( 960, 1030 )
+position = Vector2( 960, 1130 )
 shape = SubResource( 1 )
 
 [node name="ArcoPlayer" type="Area2D" parent="."]
